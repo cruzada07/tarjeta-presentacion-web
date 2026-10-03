@@ -1,0 +1,59 @@
+/*
+    Estilos generales para el fondo de la pagina
+*/
+body{
+    background-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+}
+
+/*
+    Diseño de la tarjeta
+*/
+.tarjeta{
+    background-color: wheat;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+}
+
+/*
+    Estilo para el nombre(h1)
+*/
+.tarjeta h1 {
+    color: darkred;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+/*
+    Estilo para el subtitulo(h2)
+*/
+.tarjeta h2{
+    color:cadetblue;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+/*
+    Estilo para el parrafo
+*/
+.tarjeta p{
+    color:chocolate;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/*
+    Estilo para el boton
+*/
+.tarjeta button{
+    
+}
