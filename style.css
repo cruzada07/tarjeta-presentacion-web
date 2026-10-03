@@ -55,5 +55,11 @@ body{
     Estilo para el boton
 */
 .tarjeta button{
-    
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    padding: 13px 12px;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 14px;
 }
