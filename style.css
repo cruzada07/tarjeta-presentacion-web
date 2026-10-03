@@ -63,3 +63,23 @@ body{
     cursor: pointer;
     font-size: 14px;
 }
+
+/*
+    Estilo para el botón
+*/
+.tarjeta button {
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/*
+    Efecto cuando pasas el mouse por encima del botón
+*/
+.tarjeta button:hover {
+    background-color: darkgreen;
+}
